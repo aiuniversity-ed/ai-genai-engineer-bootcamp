@@ -1,0 +1,3 @@
+A batch reactor is a closed system where reactants are processed over time.
+Temperature control is critical to avoid thermal runaway.
+Model Predictive Control (MPC) is widely used for nonlinear systems.

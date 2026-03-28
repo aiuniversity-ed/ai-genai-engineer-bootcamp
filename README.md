@@ -1,1 +1,0 @@
-# ai-genai-engineer-bootcamp
